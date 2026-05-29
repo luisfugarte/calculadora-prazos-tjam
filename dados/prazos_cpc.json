@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "fonte": "CPC/2015 (Lei 13.105/2015). Prazos contados em dias uteis (art. 219).",
+    "observacoes": [
+      "O numero de dias e o legal; o TERMO INICIAL (quando o prazo comeca) depende do ato e da forma de intimacao - escolha o modo (intimacao / publicacao no DJe / inicio direto) e a data na calculadora.",
+      "'admite_dobro' indica que o ato comporta prazo em dobro quando aplicavel a parte (Fazenda Publica art. 183; MP art. 180; Defensoria art. 186; litisconsortes com procuradores distintos de escritorios distintos em autos fisicos, art. 229). O dobro e contextual: marque a opcao 'dobro' apenas quando couber.",
+      "Prazos fixados pelo juiz (ex.: especificacao de provas) nao constam por nao terem numero legal fixo."
+    ],
+    "categorias": [
+      "Respostas e manifestacoes",
+      "Recursos",
+      "Cumprimento de sentenca e execucao",
+      "Outros"
+    ]
+  },
+  "prazos": [
+    { "id": "contestacao",                "nome": "Contestacao",                                  "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 335",            "admite_dobro": true,  "observacao": "Termo inicial conforme art. 335, I a III (audiencia de conciliacao, protocolo do pedido de cancelamento, juntada do AR etc.)." },
+    { "id": "reconvencao",                "nome": "Reconvencao",                                  "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 343",            "admite_dobro": true,  "observacao": "Proposta na propria contestacao." },
+    { "id": "replica",                    "nome": "Replica (impugnacao a contestacao)",           "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, arts. 350 e 351",     "admite_dobro": true,  "observacao": "" },
+    { "id": "emenda_inicial",             "nome": "Emenda a peticao inicial",                     "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 321",            "admite_dobro": false, "observacao": "Prazo do autor para sanar vicio; nao ha dobro." },
+    { "id": "manifestacao_documentos",    "nome": "Manifestacao sobre documentos",                "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 437, §1º",       "admite_dobro": true,  "observacao": "" },
+    { "id": "manifestacao_laudo",         "nome": "Manifestacao sobre laudo pericial",            "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 477, §1º",       "admite_dobro": true,  "observacao": "" },
+    { "id": "alegacoes_finais",           "nome": "Alegacoes finais / memoriais",                 "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 364, §2º",       "admite_dobro": true,  "observacao": "Quando convertidas em memoriais escritos." },
+    { "id": "impugnacao_gratuidade",      "nome": "Impugnacao a gratuidade da justica",           "dias": 15, "categoria": "Respostas e manifestacoes",        "fundamento": "CPC, art. 100",            "admite_dobro": true,  "observacao": "" },
+
+    { "id": "apelacao",                   "nome": "Apelacao",                                     "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "contrarrazoes_apelacao",     "nome": "Contrarrazoes de apelacao",                    "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.010, §1º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "agravo_instrumento",         "nome": "Agravo de instrumento",                        "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "contrarrazoes_agravo_instr", "nome": "Contrarrazoes de agravo de instrumento",       "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.019, II",      "admite_dobro": true,  "observacao": "" },
+    { "id": "agravo_interno",             "nome": "Agravo interno",                               "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.021, §2º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "embargos_declaracao",        "nome": "Embargos de declaracao",                       "dias": 5,  "categoria": "Recursos",                         "fundamento": "CPC, art. 1.023",          "admite_dobro": true,  "observacao": "" },
+    { "id": "recurso_especial",           "nome": "Recurso especial",                             "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "recurso_extraordinario",     "nome": "Recurso extraordinario",                       "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "contrarrazoes_resp_re",      "nome": "Contrarrazoes de REsp / RE",                   "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.030",          "admite_dobro": true,  "observacao": "" },
+    { "id": "agravo_resp_re",             "nome": "Agravo em REsp / RE",                          "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.042",          "admite_dobro": true,  "observacao": "" },
+    { "id": "embargos_divergencia",       "nome": "Embargos de divergencia",                      "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "recurso_ordinario",          "nome": "Recurso ordinario",                            "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 1.003, §5º",     "admite_dobro": true,  "observacao": "" },
+    { "id": "recurso_adesivo",            "nome": "Recurso adesivo",                              "dias": 15, "categoria": "Recursos",                         "fundamento": "CPC, art. 997, §2º, II",   "admite_dobro": true,  "observacao": "Interposto no prazo das contrarrazoes." },
+
+    { "id": "cumprimento_pagamento",      "nome": "Cumprimento de sentenca: pagamento voluntario", "dias": 15, "categoria": "Cumprimento de sentenca e execucao", "fundamento": "CPC, art. 523",            "admite_dobro": false, "observacao": "STJ: contado em dias uteis. Apos o prazo, multa de 10% + honorarios de 10% (art. 523, §1º). Nao se aplica dobro a este prazo." },
+    { "id": "impugnacao_cumprimento",     "nome": "Impugnacao ao cumprimento de sentenca",        "dias": 15, "categoria": "Cumprimento de sentenca e execucao", "fundamento": "CPC, art. 525",            "admite_dobro": true,  "observacao": "Inicia apos o prazo do art. 523, independe de penhora." },
+    { "id": "embargos_execucao",          "nome": "Embargos a execucao",                          "dias": 15, "categoria": "Cumprimento de sentenca e execucao", "fundamento": "CPC, art. 915",            "admite_dobro": true,  "observacao": "" },
+    { "id": "pagamento_execucao",         "nome": "Pagamento na execucao (apos citacao)",         "dias": 3,  "categoria": "Cumprimento de sentenca e execucao", "fundamento": "CPC, art. 829",            "admite_dobro": false, "observacao": "Prazo para pagar na execucao por quantia certa." },
+
+    { "id": "generico_5",                 "nome": "Prazo generico de 5 dias uteis",               "dias": 5,  "categoria": "Outros",                           "fundamento": "CPC, art. 218, §3º (supletivo)", "admite_dobro": true, "observacao": "Quando a lei nao fixar prazo, e de 5 dias uteis." },
+    { "id": "generico_15",                "nome": "Prazo generico de 15 dias uteis",              "dias": 15, "categoria": "Outros",                           "fundamento": "—",                        "admite_dobro": true,  "observacao": "Atalho para o prazo mais comum." }
+  ]
+}

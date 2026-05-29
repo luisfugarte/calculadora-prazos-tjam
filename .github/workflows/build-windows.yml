@@ -1,0 +1,40 @@
+name: Build Windows EXE
+
+on:
+  push:
+    branches: [main, master]
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install customtkinter pillow pyinstaller
+
+      - name: Gerar executável
+        run: pyinstaller calculadora_gui.spec --noconfirm
+
+      - name: Upload do executável
+        uses: actions/upload-artifact@v4
+        with:
+          name: Calculadora_Prazos_TJAM
+          path: dist/Calculadora_Prazos_TJAM.exe
+          retention-days: 30
+
+      - name: Publicar na Release (apenas em tags v*)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/Calculadora_Prazos_TJAM.exe

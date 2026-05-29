@@ -1,0 +1,294 @@
+data,dia_semana,tipo,descricao,observacao
+2016-01-01,sexta,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2016-02-08,segunda,facultativo,Carnaval,
+2016-02-09,terca,nacional,Carnaval,
+2016-02-10,quarta,facultativo,Quarta-feira de Cinzas,
+2016-03-24,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2016-03-25,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2016-04-21,quinta,nacional,Tiradentes,
+2016-04-22,sexta,facultativo,Ponto Facultativo,
+2016-05-01,domingo,nacional,Dia do Trabalhador,cai em fim de semana (redundante p/ calculo)
+2016-05-26,quinta,nacional,Corpus Christi,
+2016-05-27,sexta,facultativo,Ponto Facultativo,
+2016-07-04,segunda,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2016-08-11,quinta,facultativo,Dia do Advogado,
+2016-09-05,segunda,estadual,Elevacao do Amazonas a categoria de provincia,
+2016-09-06,terca,facultativo,Ponto Facultativo,
+2016-09-07,quarta,nacional,Independencia do Brasil,
+2016-10-12,quarta,nacional,Nossa Senhora Aparecida,
+2016-10-24,segunda,municipal,Aniversario de Manaus,
+2016-10-28,sexta,facultativo,Dia do Servidor Publico,
+2016-11-02,quarta,nacional,Finados,
+2016-11-14,segunda,facultativo,Ponto Facultativo,
+2016-11-15,terca,nacional,Proclamacao da Republica,
+2016-11-20,domingo,municipal,Dia da Consciencia Negra,cai em fim de semana (redundante p/ calculo)
+2016-12-08,quinta,estadual,Nossa Senhora da Conceicao,
+2016-12-09,sexta,facultativo,Ponto Facultativo,
+2016-12-25,domingo,nacional,Natal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2017-01-01,domingo,nacional,Confraternizacao Universal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2017-02-27,segunda,facultativo,Carnaval,
+2017-02-28,terca,nacional,Carnaval,
+2017-03-01,quarta,facultativo,Quarta-feira de Cinzas,
+2017-04-13,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2017-04-14,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2017-04-21,sexta,nacional,Tiradentes,
+2017-05-01,segunda,nacional,Dia do Trabalhador,
+2017-06-15,quinta,nacional,Corpus Christi,
+2017-06-16,sexta,facultativo,Ponto Facultativo,
+2017-07-03,segunda,facultativo,Ponto Facultativo (Instalacao do Poder Judiciario no Amazonas),
+2017-08-11,sexta,facultativo,Dia do Advogado,
+2017-09-05,terca,estadual,Elevacao do Amazonas a categoria de provincia,
+2017-09-06,quarta,facultativo,Ponto Facultativo,
+2017-09-07,quinta,nacional,Independencia do Brasil,
+2017-10-12,quinta,nacional,Nossa Senhora Aparecida,
+2017-10-13,sexta,facultativo,Ponto Facultativo,
+2017-10-23,segunda,facultativo,Ponto Facultativo,
+2017-10-24,terca,municipal,Aniversario de Manaus,
+2017-10-28,sabado,facultativo,Dia do Servidor Publico,cai em fim de semana (redundante p/ calculo)
+2017-11-02,quinta,nacional,Finados,
+2017-11-03,sexta,facultativo,Ponto Facultativo,
+2017-11-15,quarta,nacional,Proclamacao da Republica,
+2017-11-20,segunda,municipal,Dia da Consciencia Negra,
+2017-12-08,sexta,estadual,Nossa Senhora da Conceicao,
+2017-12-25,segunda,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2018-01-01,segunda,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2018-02-12,segunda,facultativo,Carnaval,
+2018-02-13,terca,feriado,Carnaval,
+2018-02-14,quarta,facultativo,Quarta-feira de Cinzas,
+2018-03-29,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2018-03-30,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2018-04-21,sabado,nacional,Tiradentes,cai em fim de semana (redundante p/ calculo)
+2018-04-30,segunda,facultativo,Ponto Facultativo (vespera do Dia Mundial do Trabalho),
+2018-05-01,terca,nacional,Dia Mundial do Trabalho,
+2018-05-31,quinta,feriado,Corpus Christi,
+2018-06-01,sexta,facultativo,Ponto Facultativo,
+2018-07-04,quarta,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2018-08-11,sabado,facultativo,Dia do Advogado,cai em fim de semana (redundante p/ calculo)
+2018-09-05,quarta,estadual,Elevacao do Amazonas a categoria de Provincia,
+2018-09-06,quinta,facultativo,Ponto Facultativo,
+2018-09-07,sexta,nacional,Independencia do Brasil,
+2018-10-12,sexta,nacional,Nossa Senhora Aparecida,
+2018-10-24,quarta,municipal,Elevacao de Manaus a categoria de Cidade,
+2018-10-28,domingo,facultativo,Dia do Servidor Publico,cai em fim de semana (redundante p/ calculo)
+2018-11-02,sexta,nacional,Finados,
+2018-11-15,quinta,nacional,Proclamacao da Republica,
+2018-11-16,sexta,facultativo,Ponto Facultativo,
+2018-11-19,segunda,facultativo,Ponto Facultativo,
+2018-11-20,terca,municipal,Dia da Consciencia Negra,
+2018-12-08,sabado,municipal,Nossa Senhora da Conceicao,cai em fim de semana (redundante p/ calculo)
+2018-12-08,sabado,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",cai em fim de semana (redundante p/ calculo)
+2018-12-25,terca,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2019-01-01,terca,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2019-03-04,segunda,facultativo,Carnaval,
+2019-03-05,terca,feriado,Carnaval,
+2019-03-06,quarta,facultativo,Quarta-feira de Cinzas,
+2019-04-18,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2019-04-19,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2019-04-21,domingo,nacional,Tiradentes,cai em fim de semana (redundante p/ calculo)
+2019-05-01,quarta,nacional,Dia Mundial do Trabalho,
+2019-06-20,quinta,feriado,Corpus Christi,
+2019-06-21,sexta,facultativo,Ponto Facultativo,
+2019-07-04,quinta,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2019-08-11,domingo,facultativo,Dia do Advogado,cai em fim de semana (redundante p/ calculo)
+2019-09-05,quinta,estadual,Elevacao do Amazonas a categoria de Provincia,
+2019-09-06,sexta,facultativo,Ponto Facultativo,
+2019-09-07,sabado,nacional,Independencia do Brasil,cai em fim de semana (redundante p/ calculo)
+2019-10-12,sabado,nacional,Nossa Senhora Aparecida,cai em fim de semana (redundante p/ calculo)
+2019-10-24,quinta,municipal,Elevacao de Manaus a categoria de Cidade,
+2019-10-25,sexta,facultativo,Ponto Facultativo,
+2019-10-28,segunda,facultativo,Dia do Servidor Publico,
+2019-11-02,sabado,nacional,Finados,cai em fim de semana (redundante p/ calculo)
+2019-11-15,sexta,nacional,Proclamacao da Republica,
+2019-11-20,quarta,municipal,Dia da Consciencia Negra,
+2019-12-08,domingo,municipal,Nossa Senhora da Conceicao,cai em fim de semana (redundante p/ calculo)
+2019-12-08,domingo,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",cai em fim de semana (redundante p/ calculo)
+2019-12-25,quarta,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2020-01-01,quarta,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2020-02-24,segunda,facultativo,Carnaval,
+2020-02-25,terca,feriado,Carnaval,
+2020-02-26,quarta,facultativo,Quarta-feira de Cinzas,
+2020-04-09,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2020-04-10,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2020-04-20,segunda,facultativo,Ponto Facultativo,
+2020-04-21,terca,nacional,Tiradentes,
+2020-05-01,sexta,nacional,Dia Mundial do Trabalho,
+2020-06-11,quinta,feriado,Corpus Christi,
+2020-06-12,sexta,facultativo,Ponto Facultativo,
+2020-07-04,sabado,facultativo,Instalacao do Poder Judiciario no Amazonas,cai em fim de semana (redundante p/ calculo)
+2020-08-11,terca,facultativo,Dia do Advogado,
+2020-09-05,sabado,estadual,Elevacao do Amazonas a categoria de Provincia,cai em fim de semana (redundante p/ calculo)
+2020-09-07,segunda,nacional,Independencia do Brasil,
+2020-10-12,segunda,nacional,Nossa Senhora Aparecida,
+2020-10-24,sabado,municipal,Elevacao de Manaus a categoria de Cidade,cai em fim de semana (redundante p/ calculo)
+2020-10-28,quarta,facultativo,Dia do Servidor Publico,
+2020-11-02,segunda,nacional,Finados,
+2020-11-15,domingo,nacional,Proclamacao da Republica,cai em fim de semana (redundante p/ calculo)
+2020-11-20,sexta,estadual,Dia da Consciencia Negra,
+2020-12-07,segunda,facultativo,Ponto Facultativo,
+2020-12-08,terca,municipal,Nossa Senhora da Conceicao,
+2020-12-08,terca,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2020-12-25,sexta,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2021-01-01,sexta,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2021-02-15,segunda,facultativo,Carnaval,
+2021-02-16,terca,feriado,Carnaval,
+2021-02-17,quarta,facultativo,Quarta-feira de Cinzas,
+2021-04-01,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2021-04-02,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2021-04-21,quarta,nacional,Tiradentes,
+2021-05-01,sabado,nacional,Dia Mundial do Trabalho,cai em fim de semana (redundante p/ calculo)
+2021-06-03,quinta,feriado,Corpus Christi,
+2021-06-04,sexta,facultativo,Ponto Facultativo,
+2021-07-04,domingo,facultativo,Instalacao do Poder Judiciario no Amazonas,cai em fim de semana (redundante p/ calculo)
+2021-08-11,quarta,facultativo,Dia do Advogado,
+2021-09-05,domingo,estadual,Elevacao do Amazonas a categoria de Provincia,cai em fim de semana (redundante p/ calculo)
+2021-09-06,segunda,facultativo,Ponto Facultativo,
+2021-09-07,terca,nacional,Independencia do Brasil,
+2021-10-11,segunda,facultativo,Ponto Facultativo,
+2021-10-12,terca,nacional,Nossa Senhora Aparecida,
+2021-10-24,domingo,municipal,Elevacao de Manaus a categoria de Cidade,cai em fim de semana (redundante p/ calculo)
+2021-10-28,quinta,facultativo,Dia do Servidor Publico,
+2021-10-29,sexta,facultativo,Ponto Facultativo,
+2021-11-01,segunda,facultativo,Ponto Facultativo,
+2021-11-02,terca,nacional,Finados,
+2021-11-15,segunda,nacional,Proclamacao da Republica,
+2021-11-20,sabado,estadual,Dia da Consciencia Negra,cai em fim de semana (redundante p/ calculo)
+2021-12-08,quarta,municipal,Nossa Senhora da Conceicao,
+2021-12-08,quarta,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2021-12-25,sabado,nacional,Natal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2022-01-01,sabado,nacional,Confraternizacao Universal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2022-02-28,segunda,facultativo,Carnaval,
+2022-03-01,terca,feriado,Carnaval,
+2022-03-02,quarta,facultativo,Quarta-feira de Cinzas,
+2022-04-14,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2022-04-15,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2022-04-21,quinta,nacional,Tiradentes,
+2022-04-22,sexta,facultativo,Ponto Facultativo,
+2022-05-01,domingo,nacional,Dia Mundial do Trabalho,cai em fim de semana (redundante p/ calculo)
+2022-06-16,quinta,feriado,Corpus Christi,
+2022-06-17,sexta,facultativo,Ponto Facultativo,
+2022-07-04,segunda,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2022-08-11,quinta,facultativo,Dia do Advogado,
+2022-09-05,segunda,estadual,Elevacao do Amazonas a categoria de Provincia,
+2022-09-06,terca,facultativo,Ponto Facultativo,
+2022-09-07,quarta,nacional,Independencia do Brasil,
+2022-10-12,quarta,nacional,Nossa Senhora Aparecida,
+2022-10-24,segunda,municipal,Elevacao de Manaus a categoria de Cidade,
+2022-10-28,sexta,facultativo,Dia do Servidor Publico,
+2022-11-02,quarta,nacional,Finados,
+2022-11-14,segunda,facultativo,Ponto Facultativo,
+2022-11-15,terca,nacional,Proclamacao da Republica,
+2022-11-20,domingo,estadual,Dia da Consciencia Negra,cai em fim de semana (redundante p/ calculo)
+2022-12-08,quinta,feriado,Nossa Senhora da Conceicao,
+2022-12-08,quinta,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2022-12-09,sexta,facultativo,Ponto Facultativo,
+2022-12-25,domingo,nacional,Natal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2023-01-01,domingo,nacional,Confraternizacao Universal,cai em fim de semana (redundante p/ calculo); dentro da suspensao do art. 220 (redundante)
+2023-02-20,segunda,facultativo,Carnaval,
+2023-02-21,terca,feriado,Carnaval,
+2023-02-22,quarta,facultativo,Quarta-feira de Cinzas,
+2023-04-06,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2023-04-07,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2023-04-21,sexta,nacional,Tiradentes,
+2023-05-01,segunda,nacional,Dia Mundial do Trabalho,
+2023-05-19,sexta,facultativo,Dia do Defensor Publico,
+2023-06-08,quinta,feriado,Corpus Christi,
+2023-06-09,sexta,facultativo,Ponto Facultativo,
+2023-07-04,terca,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2023-08-11,sexta,facultativo,Dia do Advogado,
+2023-09-05,terca,estadual,Elevacao do Amazonas a categoria de Provincia,
+2023-09-06,quarta,facultativo,Ponto Facultativo,
+2023-09-07,quinta,nacional,Independencia do Brasil,
+2023-10-12,quinta,nacional,Nossa Senhora Aparecida,
+2023-10-13,sexta,facultativo,Ponto Facultativo,
+2023-10-23,segunda,facultativo,Ponto Facultativo,
+2023-10-24,terca,municipal,Elevacao de Manaus a categoria de Cidade,
+2023-10-28,sabado,facultativo,Dia do Servidor Publico,cai em fim de semana (redundante p/ calculo)
+2023-11-02,quinta,nacional,Finados,
+2023-11-03,sexta,facultativo,Ponto Facultativo,
+2023-11-14,terca,facultativo,Dia Nacional do Ministerio Publico,
+2023-11-15,quarta,nacional,Proclamacao da Republica,
+2023-11-20,segunda,estadual,Dia da Consciencia Negra,
+2023-12-08,sexta,feriado,Nossa Senhora da Conceicao,
+2023-12-08,sexta,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2023-12-25,segunda,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2024-01-01,segunda,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2024-02-12,segunda,facultativo,Carnaval,
+2024-02-13,terca,feriado,Carnaval,
+2024-02-14,quarta,facultativo,Quarta-feira de Cinzas,
+2024-03-28,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2024-03-29,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2024-04-21,domingo,nacional,Tiradentes,cai em fim de semana (redundante p/ calculo)
+2024-05-01,quarta,nacional,Dia Mundial do Trabalho,
+2024-05-19,domingo,facultativo,Dia do Defensor Publico,cai em fim de semana (redundante p/ calculo)
+2024-05-30,quinta,feriado,Corpus Christi,
+2024-05-31,sexta,facultativo,Ponto Facultativo,
+2024-07-04,quinta,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2024-08-11,domingo,facultativo,Dia do Advogado,cai em fim de semana (redundante p/ calculo)
+2024-09-05,quinta,estadual,Elevacao do Amazonas a categoria de Provincia,
+2024-09-06,sexta,facultativo,Ponto Facultativo,
+2024-09-07,sabado,nacional,Independencia do Brasil,cai em fim de semana (redundante p/ calculo)
+2024-10-12,sabado,nacional,Nossa Senhora Aparecida,cai em fim de semana (redundante p/ calculo)
+2024-10-24,quinta,municipal,Elevacao de Manaus a categoria de Cidade,
+2024-10-25,sexta,facultativo,Ponto Facultativo,
+2024-10-28,segunda,facultativo,Dia do Servidor Publico,
+2024-11-02,sabado,nacional,Finados,cai em fim de semana (redundante p/ calculo)
+2024-11-14,quinta,facultativo,Dia Nacional do Ministerio Publico,
+2024-11-15,sexta,nacional,Proclamacao da Republica,
+2024-11-20,quarta,estadual,Dia da Consciencia Negra,
+2024-12-08,domingo,feriado,Nossa Senhora da Conceicao,cai em fim de semana (redundante p/ calculo)
+2024-12-08,domingo,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",cai em fim de semana (redundante p/ calculo)
+2024-12-25,quarta,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2025-01-01,quarta,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2025-03-03,segunda,facultativo,Carnaval,
+2025-03-04,terca,feriado,Carnaval,
+2025-03-05,quarta,facultativo,Quarta-feira de Cinzas,
+2025-04-17,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2025-04-18,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2025-04-21,segunda,nacional,Tiradentes,
+2025-05-01,quinta,nacional,Dia Mundial do Trabalho,
+2025-05-02,sexta,facultativo,Ponto Facultativo,
+2025-05-19,segunda,facultativo,Dia do Defensor Publico,
+2025-06-19,quinta,feriado,Corpus Christi,
+2025-06-20,sexta,facultativo,Ponto Facultativo,
+2025-07-04,sexta,facultativo,Instalacao do Poder Judiciario no Amazonas,
+2025-08-11,segunda,facultativo,Dia do Advogado,
+2025-09-05,sexta,estadual,Elevacao do Amazonas a categoria de Provincia,
+2025-09-07,domingo,nacional,Independencia do Brasil,cai em fim de semana (redundante p/ calculo)
+2025-10-12,domingo,nacional,Nossa Senhora Aparecida,cai em fim de semana (redundante p/ calculo)
+2025-10-14,terca,facultativo,Dia Nacional do Ministerio Publico,
+2025-10-24,sexta,municipal,Elevacao de Manaus a categoria de Cidade,
+2025-10-27,segunda,facultativo,Dia do Servidor Publico (transferido do dia 28/10),
+2025-11-02,domingo,nacional,Finados,cai em fim de semana (redundante p/ calculo)
+2025-11-15,sabado,nacional,Proclamacao da Republica,cai em fim de semana (redundante p/ calculo)
+2025-11-20,quinta,nacional,Dia Nacional de Zumbi e da Consciencia Negra,
+2025-11-21,sexta,facultativo,Ponto Facultativo,
+2025-12-08,segunda,feriado,Nossa Senhora da Conceicao,
+2025-12-08,segunda,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2025-12-25,quinta,nacional,Natal,dentro da suspensao do art. 220 (redundante)
+2026-01-01,quinta,nacional,Confraternizacao Universal,dentro da suspensao do art. 220 (redundante)
+2026-02-16,segunda,facultativo,Carnaval,
+2026-02-17,terca,feriado,Carnaval,
+2026-02-18,quarta,facultativo,Quarta-feira de Cinzas,
+2026-04-02,quinta,forense,"Quinta-feira Santa (art. 267, I, LC 17/97)",
+2026-04-03,sexta,nacional,Paixao de Cristo (Sexta-feira Santa),
+2026-04-20,segunda,facultativo,Ponto Facultativo,
+2026-04-21,terca,nacional,Tiradentes,
+2026-05-01,sexta,nacional,Dia Mundial do Trabalho,
+2026-05-19,terca,facultativo,Dia do Defensor Publico,
+2026-06-04,quinta,feriado,Corpus Christi,
+2026-06-05,sexta,facultativo,Ponto Facultativo,
+2026-07-04,sabado,facultativo,Instalacao do Poder Judiciario no Amazonas,cai em fim de semana (redundante p/ calculo)
+2026-08-11,terca,facultativo,Dia do Advogado,
+2026-09-05,sabado,estadual,Elevacao do Amazonas a categoria de Provincia,cai em fim de semana (redundante p/ calculo)
+2026-09-07,segunda,nacional,Independencia do Brasil,
+2026-10-12,segunda,nacional,Nossa Senhora Aparecida,
+2026-10-14,quarta,facultativo,Dia Nacional do Ministerio Publico,
+2026-10-24,sabado,municipal,Elevacao de Manaus a categoria de Cidade,cai em fim de semana (redundante p/ calculo)
+2026-10-28,quarta,facultativo,Dia do Servidor Publico,
+2026-11-02,segunda,nacional,Finados,
+2026-11-15,domingo,nacional,Proclamacao da Republica,cai em fim de semana (redundante p/ calculo)
+2026-11-20,sexta,nacional,Dia Nacional de Zumbi e da Consciencia Negra,
+2026-12-07,segunda,facultativo,Ponto Facultativo,
+2026-12-08,terca,feriado,Nossa Senhora da Conceicao,
+2026-12-08,terca,forense,"Dia Consagrado a Justica (art. 267, II, LC 17/97)",
+2026-12-25,sexta,nacional,Natal,dentro da suspensao do art. 220 (redundante)

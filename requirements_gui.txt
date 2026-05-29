@@ -1,0 +1,8 @@
+# Calculadora de Prazos Processuais Civeis (TJAM) — dependencias
+# Instale com:  pip install -r requirements_gui.txt
+
+# Interface grafica
+customtkinter>=5.2.0
+
+# Observacao: o nucleo de calculo (pacote `motor`) usa apenas a biblioteca
+# padrao do Python (datetime, json, calendar). Nenhuma dependencia extra.

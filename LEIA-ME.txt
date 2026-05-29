@@ -1,0 +1,49 @@
+====================================================================
+  CALCULADORA DE PRAZOS PROCESSUAIS CIVEIS - TJAM
+  Como usar
+====================================================================
+
+COMO ABRIR
+------------------------------------------------------------------
+1. De um duplo-clique no arquivo:
+
+       Calculadora_Prazos_TJAM.exe
+
+2. Pronto. O programa abre direto.
+
+Nao precisa instalar nada. Nao precisa de Python. Nao precisa de
+internet. Nao precisa de permissao de administrador. Os feriados do
+TJAM ja vem embutidos dentro do programa.
+
+
+SE APARECER UM AVISO AZUL DO WINDOWS
+------------------------------------------------------------------
+Na primeira vez, o Windows pode mostrar uma tela azul dizendo
+"O Windows protegeu o seu computador" (SmartScreen). Isso e normal
+em programas sem assinatura digital paga; o programa e seguro.
+
+Para abrir:
+
+   1. Clique em  "Mais informacoes"
+   2. Clique em  "Executar assim mesmo"
+
+Isso so acontece uma vez. Tambem nao precisa de administrador.
+
+
+SE O ANTIVIRUS RECLAMAR
+------------------------------------------------------------------
+Alguns antivirus desconfiam de executaveis novos sem assinatura.
+Se isso acontecer, marque o arquivo como confiavel / permitido,
+ou fale com o suporte de TI. O programa nao acessa a internet nem
+altera nada no sistema.
+
+
+DICA
+------------------------------------------------------------------
+Voce pode copiar o Calculadora_Prazos_TJAM.exe para a Area de
+Trabalho ou para qualquer pasta e usar de la. E um arquivo unico.
+
+
+====================================================================
+  Em caso de duvida, fale com quem te enviou o programa.
+====================================================================
